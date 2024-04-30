@@ -4,3 +4,4 @@ langchainhub
 langchain-openai
 langchain-chroma
 bs4
+pypdf
